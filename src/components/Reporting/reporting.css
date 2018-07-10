@@ -1,0 +1,10 @@
+.reporting {
+    padding: 20px;
+}
+
+.download-report-button {
+    padding: 5px 10px;
+    background-color: #808080;
+    border-radius: 2px;
+    color: white;
+}
